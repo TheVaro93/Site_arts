@@ -11,6 +11,11 @@ main {
 }
 
 body {
+    background-image: url('https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimg.freepik.com%2Fphotos-gratuite%2Ffond-ecran-colore-flou-artistique_58702-8178.jpg&f=1&ipt=85c6ffb06b0802b23fa2bdaaa657291d38f756ab0fe66a7f8bc952bca6e0bdf2');
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
     background-color: black;
     color: white;
     font-family: Arial, sans-serif;
@@ -43,6 +48,12 @@ nav a {
 
 nav a:hover {
     color: #ccc
+}
+
+.logo img {
+    width: 100px;
+    height: 160px;
+    object-fit: contain;
 }
 
 main {
