@@ -16,3 +16,20 @@ header {
     text-align: center;
     border-bottom: 3px solid #00008B
 }
+
+header h1 {
+    font-style: 2.5em;
+    margin-bottom: 10px;
+    font-family: 'Courier New', monospace;
+}
+
+nav {
+    margin-top: 10px;
+}
+
+nav a {
+    color: white;
+    text-decoraton: none;
+    margin: 0 10px;
+    font-style: 1.2em;
+}
