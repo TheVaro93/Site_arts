@@ -1,3 +1,3 @@
 # Site_arts
-Bah mon site de fake news pour mon projet d'arts plastiques jpeux dire quoi de plus lol  
-Si vous avez un projet en arts, et vous voulez faire un site du même style vous pouvez recycler celui-là, c'est cadeau :3  
+Un site de faux journal que j'ai créé pour un projet de fake news en arts plasiques, libre à vous de l'utiliser comme vous le voulez :3  
+(faites pas attention aux informations déjà dedans, elles sont fausses car c'est un projet de fake news)
